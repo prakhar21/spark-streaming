@@ -14,10 +14,10 @@ from kafka import SimpleProducer
 from kafka import SimpleConsumer
 
 # Twitter Credentials
-atoken = "285448554-osg0LhexfV1TdpSItHw1EedtPxoGZKl0ZV37Xoqr"
-asecret = "jFyLKFzsxi7TrGfcdDoSOJRO1Q9mBOKMLT02tgr0UAwKu"
-ckey = "q4KenWrrF0t4BAnVDh5b2AxRX"
-csecret = "eYDV5vQVe6E4RP9wrNIez8KSgyI9baBJWGxOPnAmKTsxjBY7UI"
+atoken = "< access token >"
+asecret = "< access token secret >"
+ckey = "< consumer key >"
+csecret = "< consumer secret >"
 
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
