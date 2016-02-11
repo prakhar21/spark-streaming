@@ -1,4 +1,3 @@
-# Software Engineer Challenge
 
 ##### * Testing Environment *   ( On Virtual Machine )
 * Ubuntu - 12.04   ( 32 bit )
