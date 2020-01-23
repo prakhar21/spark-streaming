@@ -1,3 +1,5 @@
+Twitter Spark Streaming using PySpark
+![Twitter Spark Streaming](https://github.com/prakhar21/spark-streaming/blob/master/twitter_spark.png)
 
 ##### * Testing Environment *   ( On Virtual Machine )
 * Ubuntu - 12.04   ( 32 bit )
